@@ -284,7 +284,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gusto: FRU
-  cantidad: 1000
+  cantidad: 500.5
 --- !u!4 &1183969778
 Transform:
   m_ObjectHideFlags: 0

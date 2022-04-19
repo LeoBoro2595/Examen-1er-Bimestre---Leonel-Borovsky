@@ -5,7 +5,7 @@ using UnityEngine;
 public class Evaluacion : MonoBehaviour
 {
     public string gusto;
-    public int cantidad;
+    public double cantidad;
     double precioSinDescuento;
     double precioConDescuento;
 	// Use this for initialization
